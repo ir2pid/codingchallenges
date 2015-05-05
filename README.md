@@ -2,7 +2,7 @@
 code dump of competitions and online judge solutions
 
 
-##For Java solutions<br>
+###For Java solutions<br>
 to redirect input from local file "in.txt", most of the java solutions have the following code 
 
 String filename = "in.txt";
