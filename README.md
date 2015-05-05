@@ -1,12 +1,12 @@
 # codingchallenges
 code dump of competitions and online judge solutions including
-- [USACO](1)
-- [HackerEarth Hiring Challenges](2)
-- [CodeJam](3)
-- [HackerEarth Practise Problems](4)
-- [MyCodeSchool](5)
-- [ProjectEuler](6)
-- [SPOJ Sphere Online Judge](7)
+- [USACO!](1)
+- [HackerEarth Hiring Challenges!](2)
+- [CodeJam!](3)
+- [HackerEarth Practise Problems!](4)
+- [MyCodeSchool!](5)
+- [ProjectEuler!](6)
+- [SPOJ Sphere Online Judge!](7)
 
 
 ###For Java solutions<br>
