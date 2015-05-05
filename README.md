@@ -1,9 +1,9 @@
 # codingchallenges
 code dump of competitions and online judge solutions including
 - [USACO](http://train.usaco.org/usacogate)
-- [HackerEarth Hiring Challenges](https://www.hackerearth.com/users/ir2pid)
+- [HackerEarth Hiring Challenges](https://www.hackerearth.com/challenges/)
 - [CodeJam](https://code.google.com/codejam)
-- [HackerEarth Practise Problems](https://www.hackerearth.com/users/ir2pid)
+- [HackerEarth Practise Problems](https://www.hackerearth.com/problems/)
 - [MyCodeSchool](http://www.mycodeschool.com/work-outs)
 - [ProjectEuler](https://projecteuler.net/)
 - [SPOJ Sphere Online Judge](http://www.spoj.com/)
