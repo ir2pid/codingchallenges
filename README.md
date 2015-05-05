@@ -1,6 +1,6 @@
 # codingchallenges
 code dump of competitions and online judge solutions including
---[USACO](1)
+- [USACO](1)
 
 
 ###For Java solutions<br>
