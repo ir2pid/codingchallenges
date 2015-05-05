@@ -15,7 +15,7 @@ to redirect input from local file "in.txt", most of the java solutions have the 
 String filename = "in.txt";
 System.setIn(new FileInputStream(filename));
 
-[1]http://train.usaco.org/usacogate
+(1)http://train.usaco.org/usacogate
 [2]https://www.hackerearth.com/users/ir2pid
 [3]https://code.google.com/codejam
 [4]https://www.hackerearth.com/users/ir2pid
